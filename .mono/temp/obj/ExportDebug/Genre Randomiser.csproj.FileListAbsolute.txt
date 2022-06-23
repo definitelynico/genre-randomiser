@@ -1,0 +1,18 @@
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\bin\ExportDebug\Genre Randomiser.dll
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\bin\ExportDebug\Genre Randomiser.pdb
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.csproj.AssemblyReference.cache
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.AssemblyInfoInputs.cache
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.AssemblyInfo.cs
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.csproj.CoreCompileInputs.cache
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.dll
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.pdb
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\bin\ExportDebug\Genre Randomiser.dll
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\bin\ExportDebug\Genre Randomiser.pdb
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.csproj.AssemblyReference.cache
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.AssemblyInfoInputs.cache
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.AssemblyInfo.cs
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.csproj.CoreCompileInputs.cache
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.dll
+C:\Game Dev\godot\godot mono 3.4.4\Genre Randomiser\.mono\temp\obj\ExportDebug\Genre Randomiser.pdb

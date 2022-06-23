@@ -1,0 +1,9 @@
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\bin\Debug\Genre Randomiser.dll
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\bin\Debug\Genre Randomiser.pdb
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.csproj.AssemblyReference.cache
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.AssemblyInfoInputs.cache
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.AssemblyInfo.cs
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.csproj.CoreCompileInputs.cache
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.dll
+D:\Godot Mono Spelprojekt\Genre Randomiser\.mono\temp\obj\Debug\Genre Randomiser.pdb
